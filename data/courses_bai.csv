@@ -1,0 +1,695 @@
+sl.no,Type,Course Code,Course Name,Course Type,Ver sio n,L,T,P,J,Credits
+1,Foundation Core - Basic Sciences and Mathematics,BCHY101L,Engineering Chemistry,Theory Only,1,3,0,0,0,3
+2,Foundation Core - Basic Sciences and Mathematics,BCHY101P,Engineering Chemistry Lab,Lab Only,1,0,0,2,0,1
+3,Foundation Core - Basic Sciences and Mathematics,BMAT101L,Calculus,Theory Only,1,3,0,0,0,3
+4,Foundation Core - Basic Sciences and Mathematics,BMAT101P,Calculus Lab,Lab Only,1,0,0,2,0,1
+5,Foundation Core - Basic Sciences and Mathematics,BMAT102L,Differential Equations and Transforms,Theory Only,1,3,1,0,0,4
+6,Foundation Core - Basic Sciences and Mathematics,BMAT201L,Complex Variables and Linear Algebra,Theory Only,1,3,1,0,0,4
+7,Foundation Core - Basic Sciences and Mathematics,BMAT202L,Probability and Statistics,Theory Only,1,3,0,0,0,3
+8,Foundation Core - Basic Sciences and Mathematics,BMAT202P,Probability and Statistics Lab,Lab Only,1,0,0,2,0,1
+9,Foundation Core - Basic Sciences and Mathematics,BPHY101L,Engineering Physics,Theory Only,1,3,0,0,0,3
+10,Foundation Core - Basic Sciences and Mathematics,BPHY101P,Engineering Physics Lab,Lab Only,1,0,0,2,0,1
+11,Foundation Core - Basic Engineering Sciences,BCSE101E,Computer Programming: Python,Embedded Theory and Lab,1,1,0,4,0,3
+12,Foundation Core - Basic Engineering Sciences,BCSE102L,Structured and Object-Oriented Programming,Theory Only,1,2,0,0,0,2
+13,Foundation Core - Basic Engineering Sciences,BCSE102P,Structured and Object-Oriented Programming Lab,Lab Only,1,0,0,4,0,2
+14,Foundation Core - Basic Engineering Sciences,BCSE103E,Computer Programming: Java,Embedded Theory and Lab,1,1,0,4,0,3
+15,Foundation Core - Basic Engineering Sciences,BEEE102L,Basic Electrical and Electronics Engineering,Theory Only,1,3,0,0,0,3
+16,Foundation Core - Basic Engineering Sciences,BEEE102P,Basic Electrical and Electronics Engineering Lab,Lab Only,1,0,0,2,0,1
+17,"Foundation Core - Humanities, Social Sciences and Management",BENG101L,Technical English Communication,Theory Only,1,2,0,0,0,2
+18,"Foundation Core - Humanities, Social Sciences and Management",BENG101P,Technical English Communication Lab,Lab Only,1,0,0,2,0,1
+19,"Foundation Core - Humanities, Social Sciences and Management",BENG102P,Technical Report Writing,Lab Only,1,0,0,2,0,1
+20,"Foundation Core - Humanities, Social Sciences and Management",BFLE200L,Foreign Language,Basket,1,0,0,0,0,2
+21,"Foundation Core - Humanities, Social Sciences and Management",BHSM200L,HSM Elective,Basket,1,0,0,0,0,3
+22,"Foundation Core - Humanities, Social Sciences and Management",BSTS101P,Quantitative Skills Practice I,Soft Skill,1.1,3,0,0,0,1.5
+23,"Foundation Core - Humanities, Social Sciences and Management",BSTS102P,Quantitative Skills Practice II,Soft Skill,1,3,0,0,0,1.5
+24,"Foundation Core - Humanities, Social Sciences and Management",BSTS201P,Qualitative Skills Practice I,Soft Skill,1,3,0,0,0,1.5
+25,"Foundation Core - Humanities, Social Sciences and Management",BSTS202P,Qualitative Skills Practice II,Soft Skill,1.1,3,0,0,0,1.5
+26,Discipline-linked Engineering Sciences,BECE102L,Digital Systems Design,Theory Only,1.0,3,0,0,0,3.0
+27,Discipline-linked Engineering Sciences,BECE102P,Digital Systems Design Lab,Lab Only,1.0,0,0,2,0,1.0
+28,Discipline-linked Engineering Sciences,BECE204L,Microprocessors and Microcontrollers,Theory Only,1.0,3,0,0,0,3.0
+29,Discipline-linked Engineering Sciences,BECE204P,Microprocessors and Microcontrollers Lab,Lab Only,1.0,0,0,2,0,1.0
+30,Discipline-linked Engineering Sciences,BMAT205L,Discrete Mathematics and Graph Theory,Theory Only,1.0,3,1,0,0,4.0
+31,Discipline Core,BCSE202L,Data Structures and Algorithms,Theory Only,1.0,3,0,0,0,3.0
+32,Discipline Core,BCSE202P,Data Structures and Algorithms Lab,Lab Only,1.0,0,0,2,0,1.0
+33,Discipline Core,BCSE203E,Web Programming,Embedded Theory and Lab,1.0,1,0,4,0,3.0
+34,Discipline Core,BCSE204L,Design and Analysis of Algorithms,Theory Only,1.0,3,0,0,0,3.0
+35,Discipline Core,BCSE204P,Design and Analysis of Algorithms Lab,Lab Only,1.0,0,0,2,0,1.0
+36,Discipline Core,BCSE205L,Computer Architecture and Organization,Theory Only,1.0,3,0,0,0,3.0
+37,Discipline Core,BCSE301L,Software Engineering,Theory Only,1.0,3,0,0,0,3.0
+38,Discipline Core,BCSE301P,Software Engineering Lab,Lab Only,1.0,0,0,2,0,1.0
+39,Discipline Core,BCSE302L,Database Systems,Theory Only,1.0,3,0,0,0,3.0
+40,Discipline Core,BCSE302P,Database Systems Lab,Lab Only,1.0,0,0,2,0,1.0
+41,Discipline Core,BCSE303L,Operating Systems,Theory Only,1.0,3,0,0,0,3.0
+42,Discipline Core,BCSE303P,Operating Systems Lab,Lab Only,1.0,0,0,2,0,1.0
+43,Discipline Core,BCSE304L,Theory of Computation,Theory Only,1.0,3,0,0,0,3.0
+44,Discipline Core,BCSE305L,Embedded Systems,Theory Only,1.0,3,0,0,0,3.0
+45,Discipline Core,BCSE306L,Artificial Intelligence,Theory Only,1.0,3,0,0,0,3.0
+46,Discipline Core,BCSE307L,Compiler Design,Theory Only,1.0,3,0,0,0,3.0
+47,Discipline Core,BCSE307P,Compiler Design Lab,Lab Only,1.0,0,0,2,0,1.0
+48,Discipline Core,BCSE308L,Computer Networks,Theory Only,11.0,3,0,0,0,3.0
+49,Discipline Core,BCSE308P,Computer Networks Lab,Lab Only,1.0,0,0,2,0,1.0
+50,Discipline Core,BCSE309L,Cryptography and Network Security,Theory Only,1.0,3,0,0,0,3.0
+51,Discipline Core,BCSE309P,Cryptography and Network Security Lab,Lab Only,1.0,0,0,2,0,1.0
+52,Projects and Internship,BCSE399J,Summer Industrial Internship,Project,1.0,0,0,0,0,1.0
+53,Projects and Internship,BCSE497J,Project - I,Project,1.0,0,0,0,0,3.0
+54,Projects and Internship,BCSE498J,Project - II / Internship,Project,1.0,0,0,0,0,5.0
+55,Projects and Internship,BCSE499J,One Semester Internship,Project,1.0,0,0,0,0,14.0
+56,Open Elective,BBIT415L,"Food, Nutrition and Health",Theory Only,1.0,3,0,0,0,3.0
+57,Open Elective,BCSE355L,Cloud Architecture Design,Theory Only,1.1,3,0,0,0,3.0
+58,Open Elective,BECE201L,Electronic Materials and devices,Theory Only,1.0,3,0,0,0,3.0
+59,Open Elective,BECE203L,Circuit Theory,Theory Only,1.0,3,1,0,0,4.0
+60,Open Elective,BECE351E,Internet of Things,Embedded Theory and Lab,1.0,1,0,2,0,2.0
+61,Open Elective,BECE352E,IoT Domain Analyst,Embedded Theory and Lab,1.0,1,0,2,0,2.0
+62,Open Elective,BEEE203L,Circuit Theory,Theory Only,1.0,3,1,0,0,4.0
+63,Open Elective,BEEE206L,Digital Electronics,Theory Only,1.0,3,0,0,0,3.0
+64,Open Elective,BEEE206P,Digital Electronics Lab,Lab Only,1.0,0,0,2,0,1.0
+65,Open Elective,BFST213E,Garment Designing and Manufacturing,Embedded Theory and Lab,1.0,2,0,2,0,3.0
+66,Open Elective,BHUM110L,Cognitive Psychology,Theory Only,1.1,3,0,0,0,3.0
+67,Open Elective,BHUM111L,Happiness and Well-being,Theory Only,1.0,3,0,0,0,3.0
+68,Open Elective,BHUM112L,Social Psychology,Theory Only,1.0,3,0,0,0,3.0
+69,Open Elective,BHUM114L,International Economic Relations,Theory Only,1.0,3,0,0,0,3.0
+70,Open Elective,BHUM201L,Mass Communication,Theory Only,1.0,3,0,0,0,3.0
+71,Open Elective,BHUM202L,Rural Development,Theory Only,1.0,3,0,0,0,3.0
+72,Open Elective,BHUM203L,Introduction to Psychology,Theory Only,1.0,3,0,0,0,3.0
+73,Open Elective,BHUM204L,Industrial Psychology,Theory Only,1.0,3,0,0,0,3.0
+74,Open Elective,BHUM205L,Development Economics,Theory Only,1.0,3,0,0,0,3.0
+75,Open Elective,BHUM206L,International Economics,Theory Only,1.0,3,0,0,0,3.0
+76,Open Elective,BHUM207L,Engineering Economics,Theory Only,1.0,3,0,0,0,3.0
+77,Open Elective,BHUM208L,Economics of Strategy,Theory Only,1.0,3,0,0,0,3.0
+78,Open Elective,BHUM209L,Game Theory,Theory Only,1.0,3,0,0,0,3.0
+79,Open Elective,BHUM210E,Econometrics,Embedded Theory and Lab,1.0,2,0,2,0,3.0
+80,Open Elective,BHUM211L,Behavioral Economics,Theory Only,1.0,3,0,0,0,3.0
+81,Open Elective,BHUM212L,Mathematics for Economic Analysis,Theory Only,1.0,3,0,0,0,3.0
+82,Open Elective,BHUM213L,Corporate Social Responsibility,Theory Only,1.0,3,0,0,0,3.0
+83,Open Elective,BHUM214L,Political Science,Theory Only,1.0,3,0,0,0,3.0
+84,Open Elective,BHUM215L,International Relations,Theory Only,1.0,3,0,0,0,3.0
+85,Open Elective,BHUM216L,Indian Culture and Heritage,Theory Only,1.0,3,0,0,0,3.0
+86,Open Elective,BHUM217L,Contemporary India,Theory Only,1.0,3,0,0,0,3.0
+87,Open Elective,BHUM218L,Financial Management,Theory Only,1.0,3,0,0,0,3.0
+88,Open Elective,BHUM219L,Principles of Accounting,Theory Only,1.0,3,0,0,0,3.0
+89,Open Elective,BHUM220L,Financial Markets and Institutions,Theory Only,1.0,3,0,0,0,3.0
+90,Open Elective,BHUM221L,"Economics of Money, Banking and Financial Markets",Theory Only,1.0,3,0,0,0,3.0
+91,Open Elective,BHUM222L,Security Analysis and Portfolio Management,Theory Only,1.0,3,0,0,0,3.0
+92,Open Elective,BHUM223L,"Options, Futures and other Derivatives",Theory Only,1.0,3,0,0,0,3.0
+93,Open Elective,BHUM224L,Fixed Income Securities,Theory Only,1.0,3,0,0,0,3.0
+94,Open Elective,BHUM225L,Personal Finance,Theory Only,1.0,3,0,0,0,3.0
+95,Open Elective,BHUM226L,Corporate Finance,Theory Only,1.0,3,0,0,0,3.0
+96,Open Elective,BHUM227L,Financial Statement Analysis,Theory Only,1.0,3,0,0,0,3.0
+97,Open Elective,BHUM228L,Cost and Management Accounting,Theory Only,1.0,3,0,0,0,3.0
+98,Open Elective,BHUM229L,"Mind, Embodiment, and Technology",Theory Only,1.0,3,0,0,0,3.0
+99,Open Elective,BHUM230L,Health Humanities in Biotechnological Era,Theory Only,1.0,3,0,0,0,3.0
+100,Open Elective,BHUM231L,Reproductive choices for a Sustainable Society,Theory Only,1.0,3,0,0,0,3.0
+101,Open Elective,BHUM232L,Introduction to Sustainable Aging,Theory Only,1.0,3,0,0,0,3.0
+102,Open Elective,BHUM233L,Environmental Psychology,Theory Only,1.0,3,0,0,0,3.0
+103,Open Elective,BHUM234L,Indian Psychology,Theory Only,1.0,3,0,0,0,3.0
+104,Open Elective,BHUM235E,Psychology of Wellness,Embedded Theory and Lab,1.0,2,0,2,0,3.0
+105,Open Elective,BHUM236L,Taxation,Theory Only,1.0,3,0,0,0,3.0
+106,Open Elective,BMEE102P,Engineering Design Visualisation Lab,Lab Only,1.0,0,0,4,0,2.0
+107,Open Elective,BMEE201L,Engineering Mechanics,Theory Only,1.0,2,1,0,0,3.0
+108,Open Elective,BMEE209L,Materials Science and Engineering,Theory Only,1.0,3,0,0,0,3.0
+109,Open Elective,BMEE209P,Materials Science and Engineering Lab,Lab Only,1.0,0,0,2,0,1.0
+110,Open Elective,BMEE355E,Cloud Computing,Embedded Theory and Lab,1.0,1,0,4,0,3.0
+111,Open Elective,BSTS301P,Advanced Competitive Coding � I,Soft Skill,1.0,3,0,0,0,1.5
+112,Open Elective,BSTS302P,Advanced Competitive Coding - II,Soft Skill,1.0,3,0,0,0,1.5
+113,Open Elective,CFOC101M,Advanced Green Manufacturing Systems,Online Course,1.0,0,0,0,0,3.0
+114,Open Elective,CFOC102M,Introduction to Cognitive Psychology,Online Course,1.0,0,0,0,0,3.0
+115,Open Elective,CFOC103M,Introduction to Political Theory,Online Course,1.0,0,0,0,0,3.0
+116,Open Elective,CFOC104M,Six Sigma,Online Course,1.0,0,0,0,0,3.0
+117,Open Elective,CFOC105M,Emotional Intelligence,Online Course,1.0,0,0,0,0,2.0
+118,Open Elective,CFOC106M,Manufacturing Strategy,Online Course,1.0,0,0,0,0,2.0
+119,Open Elective,CFOC107M,Supply Chain Analytics,Online Course,1.0,0,0,0,0,2.0
+120,Open Elective,CFOC108M,Systems Engineering: Theory and Practice,Online Course,1.0,0,0,0,0,2.0
+121,Open Elective,CFOC109M,Design Thinking - A Primer,Online Course,1.0,0,0,0,0,1.0
+122,Open Elective,CFOC110M,MCDM Techniques Using R and MARLAB,Online Course,1.0,0,0,0,0,1.0
+123,Open Elective,CFOC111M,Perspectives on Neurolinguistic,Online Course,1.0,0,0,0,0,1.0
+124,Open Elective,CFOC112M,Sociology of Science,Online Course,1.0,0,0,0,0,1.0
+125,Open Elective,CFOC113M,Contemporary Themes in India’s Economic Development and Economic Survey,Online Course,1.0,0,0,0,0,3.0
+126,Open Elective,CFOC114M,Problem Solving through Programming in C,Online Course,1.0,0,0,0,0,3.0
+127,Open Elective,CFOC115M,Design and Analysis of Algorithms,Online Course,1.0,0,0,0,0,2.0
+128,Open Elective,CFOC116M,Computer Vision,Online Course,1.0,0,0,0,0,3.0
+129,Open Elective,CFOC117M,Spatial Informatics,Online Course,1.0,0,0,0,0,2.0
+130,Open Elective,CFOC118M,Practical Machine Learning with Tensorflow,Online Course,1.0,0,0,0,0,2.0
+131,Open Elective,CFOC119M,Training of Trainers,Online Course,1.0,0,0,0,0,3.0
+132,Open Elective,CFOC120M,Knowledge Management,Online Course,1.0,0,0,0,0,2.0
+133,Open Elective,CFOC121M,Leadership,Online Course,1.0,0,0,0,0,1.0
+134,Open Elective,CFOC122M,Educational Leadership,Online Course,2.0,0,0,0,0,3.0
+135,Open Elective,CFOC123M,Cost Accounting,Online Course,1.0,0,0,0,0,1.0
+136,Open Elective,CFOC124M,"Practitioners Course In Descriptive, Predictive and Prescriptive Analytics",Online Course,1.0,0,0,0,0,2.0
+137,Open Elective,CFOC125M,Decision-Making Under Uncertainty,Online Course,1.0,0,0,0,0,1.0
+138,Open Elective,CFOC126M,Data Analysis and Decision Making - III,Online Course,1.0,0,0,0,0,3.0
+139,Open Elective,CFOC127M,Business Analytics and Data Mining Modeling Using R Part II,Online Course,1.0,0,0,0,0,1.0
+140,Open Elective,CFOC128M,Business Analytics and Text Mining Modeling Using Python,Online Course,1.0,0,0,0,0,2.0
+141,Open Elective,CFOC129M,Economics of Health and Health Care,Online Course,1.0,0,0,0,0,2.0
+142,Open Elective,CFOC130M,Human Resource Development,Online Course,1.0,0,0,0,0,3.0
+143,Open Elective,CFOC131M,Performance and Reward Management,Online Course,1.0,0,0,0,0,3.0
+144,Open Elective,CFOC132M,Corporate Social Responsibility,Online Course,1.0,0,0,0,0,2.0
+145,Open Elective,CFOC133M,E-Business,Online Course,1.0,0,0,0,0,3.0
+146,Open Elective,CFOC134M,"Innovation, Business Models and Entrepreneurship",Online Course,1.0,0,0,0,0,2.0
+147,Open Elective,CFOC135M,The Ethical Corporation,Online Course,1.0,0,0,0,0,2.0
+148,Open Elective,CFOC136M,Toyota Production System,Online Course,1.0,0,0,0,0,2.0
+149,Open Elective,CFOC137M,Intellectual Property Rights and Competition Law,Online Course,1.0,0,0,0,0,2.0
+150,Open Elective,CFOC138M,Patent Search for Engineers and Lawyers,Online Course,1.0,0,0,0,0,2.0
+151,Open Elective,CFOC139M,Role of Craft and Technology in Interior - Architecture,Online Course,1.0,0,0,0,0,2.0
+152,Open Elective,CFOC140M,Glass In Buildings : Design And Applications,Online Course,1.0,0,0,0,0,3.0
+153,Open Elective,CFOC141M,Visual Perception and Art: A Survey Across the Cultures,Online Course,1.0,0,0,0,0,1.0
+154,Open Elective,CFOC142M,Mapping Signal Processing Algorithms to Architectures,Online Course,1.0,0,0,0,0,3.0
+155,Open Elective,CFOC143M,Introduction to Computer Vision,Online Course,1.0,0,0,0,0,3.0
+156,Open Elective,CFOC144M,"Op-Amp Practical Applications: Design, Simulation and Implementation",Online Course,1.0,0,0,0,0,3.0
+157,Open Elective,CFOC145M,Fabrication Techniques for MEMs - based sensors: clinical Perspective,Online Course,1.0,0,0,0,0,3.0
+158,Open Elective,CFOC146M,Linear System Theory,Online Course,1.0,0,0,0,0,3.0
+159,Open Elective,CFOC147M,Advanced Linear Continuous Control Systems: Applications with MATLAB Programming and Simulink,Online Course,1.0,0,0,0,0,2.0
+160,Open Elective,CFOC148M,Introduction to Wireless and Cellular Communications,Online Course,1.0,0,0,0,0,3.0
+161,Open Elective,CFOC149M,Digital Switching - I,Online Course,1.0,0,0,0,0,2.0
+162,Open Elective,CFOC150M,Microelectronics: Devices To Circuits,Online Course,1.0,0,0,0,0,3.0
+163,Open Elective,CFOC151M,Digital Image Processing,Online Course,1.0,0,0,0,0,3.0
+164,Open Elective,CFOC152M,Pattern Recognition and Application,Online Course,1.0,0,0,0,0,3.0
+165,Open Elective,CFOC153M,Microwave Theory and Techniques,Online Course,1.0,0,0,0,0,3.0
+166,Open Elective,CFOC154M,Principles and Techniques of Modern Radar Systems,Online Course,1.0,0,0,0,0,3.0
+167,Open Elective,CFOC155M,Computational Electromagnetics,Online Course,1.0,0,0,0,0,3.0
+168,Open Elective,CFOC156M,Microwave Engineering,Online Course,1.0,0,0,0,0,3.0
+169,Open Elective,CFOC157M,Introduction to parallel Programming in Open MP,Online Course,1.0,0,0,0,0,1.0
+170,Open Elective,CFOC158M,Reinforcement Learning,Online Course,1.0,0,0,0,0,3.0
+171,Open Elective,CFOC159M,Applied Natural Language Processing,Online Course,1.0,0,0,0,0,3.0
+172,Open Elective,CFOC160M,Python for Data Science,Online Course,1.0,0,0,0,0,1.0
+173,Open Elective,CFOC161M,Data Science for Engineers,Online Course,1.0,0,0,0,0,2.0
+174,Open Elective,CFOC162M,Scalable Data Science,Online Course,1.0,0,0,0,0,2.0
+175,Open Elective,CFOC163M,Advanced Computer Architecture,Online Course,1.0,0,0,0,0,2.0
+176,Open Elective,CFOC164M,Software Project Management,Online Course,1.0,0,0,0,0,3.0
+177,Open Elective,CFOC165M,Software testing,Online Course,1.0,0,0,0,0,3.0
+178,Open Elective,CFOC166M,Hardware Modeling using Verilog,Online Course,1.0,0,0,0,0,2.0
+179,Open Elective,CFOC167M,Synthesis of Digital Systems,Online Course,1.0,0,0,0,0,3.0
+180,Open Elective,CFOC168M,Switching Circuits and Logic Design,Online Course,1.0,0,0,0,0,3.0
+181,Open Elective,CFOC169M,Demystifying networking,Online Course,1.0,0,0,0,0,1.0
+182,Open Elective,CFOC170M,Modern Algebra,Online Course,1.0,0,0,0,0,2.0
+183,Open Elective,CFOC171M,Introduction to Haskell Programming    2,Online Course,1.0,0,0,0,0,2.0
+184,Open Elective,CFOC172M,Flow through Porous Media,Online Course,1.0,0,0,0,0,3.0
+185,Open Elective,CFOC173M,Bioenergy,Online Course,1.0,0,0,0,0,2.0
+186,Open Elective,CFOC174M,Introduction to Biostatistics,Online Course,1.0,0,0,0,0,2.0
+187,Open Elective,CFOC175M,Nanotechnology in Agriculture,Online Course,1.0,0,0,0,0,2.0
+188,Open Elective,CFOC176M,Computer Aided Drug Design,Online Course,1.0,0,0,0,0,2.0
+189,Open Elective,CFOC177M,Drug Delivery: Principles and Engineering,Online Course,1.0,0,0,0,0,3.0
+190,Open Elective,CFOC178M,Functional Genomics,Online Course,1.0,0,0,0,0,1.0
+191,Open Elective,CFOC179M,Introduction to Proteogenomics,Online Course,1.0,0,0,0,0,3.0
+192,Open Elective,CFOC180M,Introduction to Mechanobiology,Online Course,1.0,0,0,0,0,2.0
+193,Open Elective,CFOC181M,WildLife Conservation,Online Course,1.0,0,0,0,0,2.0
+194,Open Elective,CFOC182M,Organic Chemistry in Biology and Drug Development,Online Course,1.0,0,0,0,0,3.0
+195,Open Elective,CFOC183M,Bioinorganic Chemistry,Online Course,1.0,0,0,0,0,1.0
+196,Open Elective,CFOC184M,Spectroscopic Techniques for Pharmaceutical and Biopharmaceutical Industries,Online Course,1.0,0,0,0,0,3.0
+197,Open Elective,CFOC185M,Biophysical chemistry,Online Course,1.0,0,0,0,0,3.0
+198,Open Elective,CFOC186M,Deep Learning,Online Course,1.0,0,0,0,0,3.0
+199,Open Elective,CFOC187M,Blockchain Architecture Design and use Cases,Online Course,1.0,0,0,0,0,3.0
+200,Open Elective,CFOC188M,Ethical Hacking,Online Course,1.0,0,0,0,0,3.0
+201,Open Elective,CFOC189M,Organic Farming for Sustainable Agricultural Production,Online Course,1.0,0,0,0,0,2.0
+202,Open Elective,CFOC190M,Positive Psychology,Online Course,1.0,0,0,0,0,2.0
+203,Open Elective,CFOC191M,Forests and their Management,Online Course,1.0,0,0,0,0,3.0
+204,Open Elective,CFOC192M,Forest Biometry,Online Course,1.0,0,0,0,0,2.0
+205,Open Elective,CFOC193M,Bioengineering: An Interface with Biology and Medicine,Online Course,1.0,0,0,0,0,2.0
+206,Open Elective,CFOC194M,Human Molecular Genetics,Online Course,1.0,0,0,0,0,1.0
+207,Open Elective,CFOC195M,Bioenergetics of Life Processes,Online Course,1.0,0,0,0,0,1.0
+208,Open Elective,CFOC196M,Computational Systems Biology,Online Course,1.0,0,0,0,0,3.0
+209,Open Elective,CFOC197M,Bio-Informatics: Algorithms and Applications,Online Course,1.0,0,0,0,0,3.0
+210,Open Elective,CFOC198M,Biostatistics and Design of Experiments,Online Course,1.0,0,0,0,0,2.0
+211,Open Elective,CFOC199M,Medical Biomaterials,Online Course,1.0,0,0,0,0,2.0
+212,Open Elective,CFOC200M,Demystifying the Brain,Online Course,1.0,0,0,0,0,1.0
+213,Open Elective,CFOC201M,Principles and Applications of NMR Spectroscopy,Online Course,1.0,0,0,0,0,2.0
+214,Open Elective,CFOC202M,Cell Culture Technologies,Online Course,1.0,0,0,0,0,2.0
+215,Open Elective,CFOC203M,Natural Hazards,Online Course,1.0,0,0,0,0,2.0
+216,Open Elective,CFOC204M,Modern Construction Materials,Online Course,1.0,0,0,0,0,3.0
+217,Open Elective,CFOC205M,"Energy Efficiency, Acoustics and Daylighting in Building",Online Course,1.0,0,0,0,0,3.0
+218,Open Elective,CFOC206M,"Fire Protection, Services and Maintenance Management of Building",Online Course,1.0,0,0,0,0,3.0
+219,Open Elective,CFOC207M,Electronic Waste Management - Issues And Challenges,Online Course,1.0,0,0,0,0,1.0
+220,Open Elective,CFOC208M,Higher Surveying,Online Course,1.0,0,0,0,0,3.0
+221,Open Elective,CFOC209M,Environmental Remediation of Contaminated Sites,Online Course,1.0,0,0,0,0,3.0
+222,Open Elective,CFOC210M,Soil Structure Interaction,Online Course,1.0,0,0,0,0,3.0
+223,Open Elective,CFOC211M,Introduction to Accounting and Finance for Civil Engineers,Online Course,1.0,0,0,0,0,2.0
+224,Open Elective,CFOC212M,Scheduling Techniques in Projects,Online Course,1.0,0,0,0,0,1.0
+225,Open Elective,CFOC213M,GPS Surveying,Online Course,1.0,0,0,0,0,1.0
+226,Open Elective,CFOC214M,Sustainable Materials and Green Buildings,Online Course,1.0,0,0,0,0,3.0
+227,Open Elective,CFOC215M,Geomorphic Processes: Landforms and Landscapes,Online Course,1.0,0,0,0,0,2.0
+228,Open Elective,CFOC216M,Introduction To Process Modeling in the Membrane Separation Process,Online Course,1.0,0,0,0,0,1.0
+229,Open Elective,CFOC217M,Computational Geometry,Online Course,1.0,0,0,0,0,3.0
+230,Open Elective,CFOC218M,Compiler Design,Online Course,1.0,0,0,0,0,3.0
+231,Open Elective,CFOC219M,Embedded System Design with ARM,Online Course,1.0,0,0,0,0,2.0
+232,Open Elective,CFOC220M,VLSI Physical Design,Online Course,1.0,0,0,0,0,3.0
+233,Open Elective,CFOC221M,Cloud computing,Online Course,1.0,0,0,0,0,2.0
+234,Open Elective,CFOC222M,Artificial Intelligence : Knowledge Representation And Reasoning,Online Course,1.0,0,0,0,0,3.0
+235,Open Elective,CFOC223M,Privacy and Security in Online Social Media,Online Course,1.0,0,0,0,0,2.0
+236,Open Elective,CFOC224M,Information Security - 5 - Secure Systems Engineering,Online Course,1.0,0,0,0,0,2.0
+237,Open Elective,CFOC225M,Model Checking,Online Course,1.0,0,0,0,0,3.0
+238,Open Elective,CFOC226M,Randomized Algorithms,Online Course,1.0,0,0,0,0,3.0
+239,Open Elective,CFOC227M,GPU Architectures and Programming,Online Course,1.0,0,0,0,0,3.0
+240,Open Elective,CFOC228M,Multi-Core Computer Architecture - Storage and Interconnects,Online Course,1.0,0,0,0,0,2.0
+241,Open Elective,CFOC229M,Data Analytics with Python,Online Course,1.0,0,0,0,0,3.0
+242,Open Elective,CFOC230M,Arithmetic Circuit Complexity,Online Course,1.0,0,0,0,0,3.0
+243,Open Elective,CFOC231M,Google Cloud Computing Foundation Course,Online Course,1.0,0,0,0,0,2.0
+244,Open Elective,CFOC232M,Consumer Behaviour,Online Course,1.0,0,0,0,0,2.0
+245,Open Elective,CFOC233M,Enhancing Soft Skills and Personality,Online Course,1.0,0,0,0,0,2.0
+246,Open Elective,CFOC234M,Introduction to Airplane Performance,Online Course,1.0,0,0,0,0,2.0
+247,Open Elective,CFOC235M,Rocket Propulsion,Online Course,1.0,0,0,0,0,3.0
+248,Open Elective,CFOC236M,Aircraft Maintenance,Online Course,1.0,0,0,0,0,1.0
+249,Open Elective,CFOC237M,Sustainable Architecture,Online Course,1.0,0,0,0,0,3.0
+250,Open Elective,CFOC238M,Introduction to History of Architecture in India,Online Course,1.0,0,0,0,0,1.0
+251,Open Elective,CFOC239M,"Structure, Form, and Architecture : The Synergy",Online Course,1.0,0,0,0,0,2.0
+252,Open Elective,CFOC240M,Interactomics : Basics and Applications,Online Course,1.0,0,0,0,0,3.0
+253,Open Elective,CFOC241M,Introduction to Professional Scientific Communication,Online Course,1.0,0,0,0,0,1.0
+254,Open Elective,CFOC242M,Material and Energy Balances,Online Course,1.0,0,0,0,0,3.0
+255,Open Elective,CFOC243M,Thermodynamics for Biological Systems: Classical and Statistical Aspect,Online Course,1.0,0,0,0,0,3.0
+256,Open Elective,CFOC244M,Optical Spectroscopy and Microscopy : Fundamentals of Optical Measurements and Instrumentation,Online Course,1.0,0,0,0,0,3.0
+257,Open Elective,CFOC245M,Fundamentals of Semiconductor Devices,Online Course,1.0,0,0,0,0,3.0
+258,Open Elective,CFOC246M,Characterization of Construction Materials,Online Course,1.0,0,0,0,0,3.0
+259,Open Elective,CFOC247M,Introduction to Civil Engineering Profession,Online Course,1.0,0,0,0,0,2.0
+260,Open Elective,CFOC248M,Environmental Geomechanics,Online Course,1.0,0,0,0,0,3.0
+261,Open Elective,CFOC249M,Mechanical Characterization of Bituminous Materials,Online Course,1.0,0,0,0,0,3.0
+262,Open Elective,CFOC250M,Geosynthetics and Reinforced Soil Structures,Online Course,1.0,0,0,0,0,3.0
+263,Open Elective,CFOC251M,Geotechnical Engineering II Foundation Engineering,Online Course,1.0,0,0,0,0,3.0
+264,Open Elective,CFOC252M,Landscape Architecture and Site Planning - Basic Fundamentals,Online Course,1.0,0,0,0,0,2.0
+265,Open Elective,CFOC253M,Plastic Waste Management,Online Course,1.0,0,0,0,0,2.0
+266,Open Elective,CFOC254M,Advanced Topics in the Science and Technology of Concrete,Online Course,1.0,0,0,0,0,1.0
+267,Open Elective,CFOC255M,Applied Environmental Microbiology,Online Course,1.0,0,0,0,0,3.0
+268,Open Elective,CFOC256M,Digital Land Surveying And Mapping (DLS&M),Online Course,1.0,0,0,0,0,2.0
+269,Open Elective,CFOC257M,Earthquake Geology: A tool for Seismic Hazard Assessment,Online Course,1.0,0,0,0,0,3.0
+270,Open Elective,CFOC258M,Introduction to Geographic Information Systems,Online Course,1.0,0,0,0,0,1.0
+271,Open Elective,CFOC259M,Structural Dynamics,Online Course,2.0,0,0,0,0,4.0
+272,Open Elective,CFOC260M,Water Supply Engineering,Online Course,1.0,0,0,0,0,3.0
+273,Open Elective,CFOC261M,Geo Spatial Analysis in Urban Planning,Online Course,1.0,0,0,0,0,1.0
+274,Open Elective,CFOC262M,Geotechnical Engineering - 1,Online Course,1.0,0,0,0,0,3.0
+275,Open Elective,CFOC263M,Maintenance and Repair of Concrete Structures,Online Course,1.0,0,0,0,0,3.0
+276,Open Elective,CFOC264M,Thermodynamics,Online Course,1.0,0,0,0,0,3.0
+277,Open Elective,CFOC265M,Geomorphology,Online Course,1.0,0,0,0,0,3.0
+278,Open Elective,CFOC266M,Remote Sensing Essentials,Online Course,1.0,0,0,0,0,3.0
+279,Open Elective,CFOC267M,Hydraulic Engineering,Online Course,1.0,0,0,0,0,3.0
+280,Open Elective,CFOC268M,Environmental Quality Monitoring and Analysis,Online Course,1.0,0,0,0,0,3.0
+281,Open Elective,CFOC269M,Electrochemical Technology in Pollution Control,Online Course,1.0,0,0,0,0,2.0
+282,Open Elective,CFOC270M,Advanced Thermodynamics,Online Course,1.0,0,0,0,0,3.0
+283,Open Elective,CFOC271M,Membrane Technology,Online Course,1.0,0,0,0,0,3.0
+284,Open Elective,CFOC272M,Computational Fluid Dynamics,Online Course,1.0,0,0,0,0,3.0
+285,Open Elective,CFOC273M,Transport phenomena,Online Course,1.0,0,0,0,0,3.0
+286,Open Elective,CFOC274M,Optimization in Chemical Engineering,Online Course,1.0,0,0,0,0,3.0
+287,Open Elective,CFOC275M,Soft Nano Technology,Online Course,1.0,0,0,0,0,2.0
+288,Open Elective,CFOC276M,Transport processes I - Heat and Mass Transfer,Online Course,1.0,0,0,0,0,3.0
+289,Open Elective,CFOC277M,"Process Control - Design, Analysis and Assessment",Online Course,1.0,0,0,0,0,3.0
+290,Open Elective,CFOC278M,Heat Transfer,Online Course,1.0,0,0,0,0,3.0
+291,Open Elective,CFOC279M,Chemical Reaction Engineering II,Online Course,1.0,0,0,0,0,3.0
+292,Open Elective,CFOC280M,Multiphase Flows,Online Course,1.0,0,0,0,0,2.0
+293,Open Elective,CFOC281M,Mass Transfer Operations - I,Online Course,1.0,0,0,0,0,3.0
+294,Open Elective,CFOC282M,Waste to Energy Conversion,Online Course,1.0,0,0,0,0,2.0
+295,Open Elective,CFOC283M,Equipment Design : Mechanical Aspects,Online Course,1.0,0,0,0,0,1.0
+296,Open Elective,CFOC284M,An Introduction to Cardiovascular Fluid Mechanics,Online Course,1.0,0,0,0,0,1.0
+297,Open Elective,CFOC285M,Computer Aided Applied Single Objective Optimization,Online Course,1.0,0,0,0,0,2.0
+298,Open Elective,CFOC286M,Basic Principles and Calculations in Chemical Engineering,Online Course,1.0,0,0,0,0,3.0
+299,Open Elective,CFOC287M,Introduction to Blockchain Technology and Applications,Online Course,1.0,0,0,0,0,2.0
+300,Open Elective,CFOC288M,Foundations of Cryptography,Online Course,1.0,0,0,0,0,3.0
+301,Open Elective,CFOC289M,Introduction to Database Systems,Online Course,1.0,0,0,0,0,3.0
+302,Open Elective,CFOC290M,Operating System,Online Course,1.0,0,0,0,0,3.0
+303,Open Elective,CFOC291M,Programming in C++,Online Course,1.0,0,0,0,0,2.0
+304,Open Elective,CFOC292M,Programming in Java,Online Course,1.0,0,0,0,0,3.0
+305,Open Elective,CFOC293M,Data Base Management System,Online Course,1.0,0,0,0,0,2.0
+306,Open Elective,CFOC294M,Introduction to Algorithms and Analysis,Online Course,1.0,0,0,0,0,3.0
+307,Open Elective,CFOC295M,Data Mining,Online Course,1.0,0,0,0,0,2.0
+308,Open Elective,CFOC296M,Embedded Systems Design,Online Course,1.0,0,0,0,0,3.0
+309,Open Elective,CFOC297M,Real Time Operating System,Online Course,1.0,0,0,0,0,1.0
+310,Open Elective,CFOC298M,Introduction to Soft Computing,Online Course,1.0,0,0,0,0,2.0
+311,Open Elective,CFOC299M,Cryptography and Network Security,Online Course,1.0,0,0,0,0,3.0
+312,Open Elective,CFOC300M,Introduction to Internet of Things,Online Course,1.0,0,0,0,0,3.0
+313,Open Elective,CFOC301M,Computer Networks and Internet Protocol,Online Course,1.0,0,0,0,0,3.0
+314,Open Elective,CFOC302M,Introduction to Industry 4.0 and Industrial Internet of Things,Online Course,1.0,0,0,0,0,3.0
+315,Open Elective,CFOC303M,Computer Architecture,Online Course,1.0,0,0,0,0,3.0
+316,Open Elective,CFOC304M,"Programming, Data Structures And Algorithms Using Python",Online Course,1.0,0,0,0,0,2.0
+317,Open Elective,CFOC305M,Introduction to Machine Learning,Online Course,1.0,0,0,0,0,3.0
+318,Open Elective,CFOC306M,Social Networks,Online Course,1.0,0,0,0,0,3.0
+319,Open Elective,CFOC307M,Foundations to Computer Systems Design,Online Course,1.0,0,0,0,0,3.0
+320,Open Elective,CFOC308M,The Joy of Computing using Python,Online Course,1.0,0,0,0,0,3.0
+321,Open Elective,CFOC309M,Discrete Mathematics,Online Course,1.0,0,0,0,0,3.0
+322,Open Elective,CFOC310M,An Introduction to Artificial Intelligence,Online Course,1.0,0,0,0,0,3.0
+323,Open Elective,CFOC311M,User-centric Computing for Human-Computer Interaction,Online Course,1.0,0,0,0,0,3.0
+324,Open Elective,CFOC312M,Cloud Computing and Distributed Systems,Online Course,1.0,0,0,0,0,2.0
+325,Open Elective,CFOC313M,Machine Learning,Online Course,1.0,0,0,0,0,2.0
+326,Open Elective,CFOC314M,Modern Application Development,Online Course,1.0,0,0,0,0,3.0
+327,Open Elective,CFOC315M,An Introduction To Programming Through C++,Online Course,1.0,0,0,0,0,3.0
+328,Open Elective,CFOC316M,Design and Pedagogy of the Introductory Programming Course,Online Course,1.0,0,0,0,0,1.0
+329,Open Elective,CFOC317M,Quantitative Methods in Chemistry,Online Course,1.0,0,0,0,0,3.0
+330,Open Elective,CFOC318M,Basics in Inorganic Chemistry,Online Course,1.0,0,0,0,0,1.0
+331,Open Elective,CFOC319M,Ultrafast Laser Spectroscopy,Online Course,1.0,0,0,0,0,3.0
+332,Open Elective,CFOC320M,Transition Metal Organometallics in Catalysis and Biology,Online Course,1.0,0,0,0,0,3.0
+333,Open Elective,CFOC321M,Essentials of Biomolecules : Nucleic Acids and Peptides,Online Course,1.0,0,0,0,0,3.0
+334,Open Elective,CFOC322M,Fundamentals of Spectroscopy,Online Course,1.0,0,0,0,0,3.0
+335,Open Elective,CFOC323M,Advanced Chemical Thermodynamics and Kinetics,Online Course,1.0,0,0,0,0,3.0
+336,Open Elective,CFOC324M,Biochemistry,Online Course,1.0,0,0,0,0,3.0
+337,Open Elective,CFOC325M,Organometallic Chemistry,Online Course,1.0,0,0,0,0,1.0
+338,Open Elective,CFOC326M,Chemical Applications of Symmetry and Group Theory,Online Course,1.0,0,0,0,0,2.0
+339,Open Elective,CFOC327M,Basic Thermodynamics : Classical and Statistical Approaches,Online Course,1.0,0,0,0,0,3.0
+340,Open Elective,CFOC328M,Medicinal Chemistry,Online Course,1.0,0,0,0,0,3.0
+341,Open Elective,CFOC329M,"Design, Technology and Innovation",Online Course,1.0,0,0,0,0,2.0
+342,Open Elective,CFOC330M,Geographic Information System,Online Course,1.0,0,0,0,0,3.0
+343,Open Elective,CFOC331M,Product Design and Innovation,Online Course,1.0,0,0,0,0,1.0
+344,Open Elective,CFOC332M,Fundamentals of Automotive Systems,Online Course,1.0,0,0,0,0,3.0
+345,Open Elective,CFOC333M,Electronics Equipment Integration and Prototype Building,Online Course,1.0,0,0,0,0,2.0
+346,Open Elective,CFOC334M,"High Power Multilevel Converters-Analysis, Design and Operational Issues",Online Course,1.0,0,0,0,0,3.0
+347,Open Elective,CFOC335M,"Fuzzy Sets, Logic and Systems and Applications",Online Course,1.0,0,0,0,0,3.0
+348,Open Elective,CFOC336M,Transmission Lines and Electromagnetic Waves,Online Course,1.0,0,0,0,0,3.0
+349,Open Elective,CFOC337M,Digital IC Design,Online Course,1.0,0,0,0,0,3.0
+350,Open Elective,CFOC338M,Signals and Systems,Online Course,1.0,0,0,0,0,3.0
+351,Open Elective,CFOC339M,Power Management Integrated Circuits,Online Course,1.0,0,0,0,0,3.0
+352,Open Elective,CFOC340M,DC Power Transmission Systems,Online Course,1.0,0,0,0,0,3.0
+353,Open Elective,CFOC341M,Microprocessors and Interfacing,Online Course,1.0,0,0,0,0,3.0
+354,Open Elective,CFOC342M,Design and Simulation of Power Conversion using Open Source Tools,Online Course,1.0,0,0,0,0,1.0
+355,Open Elective,CFOC343M,"Integrated Circuits, MOSFETs, OP-Amps and their Applications",Online Course,1.0,0,0,0,0,3.0
+356,Open Elective,CFOC344M,Electronic Systems for Cancer Diagnosis,Online Course,1.0,0,0,0,0,3.0
+357,Open Elective,CFOC345M,Principles of Signals and Systems,Online Course,1.0,0,0,0,0,3.0
+358,Open Elective,CFOC346M,Principles of Communication Systems - I,Online Course,1.0,0,0,0,0,3.0
+359,Open Elective,CFOC347M,Principles of Digital Communication,Online Course,1.0,0,0,0,0,3.0
+360,Open Elective,CFOC348M,Electric Vehicles - Part 1,Online Course,1.0,0,0,0,0,1.0
+361,Open Elective,CFOC349M,Nonlinear Adaptive Control,Online Course,1.0,0,0,0,0,1.0
+362,Open Elective,CFOC350M,Antennas,Online Course,1.0,0,0,0,0,3.0
+363,Open Elective,CFOC351M,Multirate DSP,Online Course,1.0,0,0,0,0,3.0
+364,Open Elective,CFOC352M,Control Engineering,Online Course,1.0,0,0,0,0,3.0
+365,Open Elective,CFOC353M,Introduction to Photonics,Online Course,1.0,0,0,0,0,3.0
+366,Open Elective,CFOC354M,Microwave Integrated Circuits    2,Online Course,1.0,0,0,0,0,2.0
+367,Open Elective,CFOC355M,Analog IC Design,Online Course,1.0,0,0,0,0,3.0
+368,Open Elective,CFOC356M,Analog Circuits,Online Course,1.0,0,0,0,0,3.0
+369,Open Elective,CFOC357M,Advance Power Electronics and Control,Online Course,1.0,0,0,0,0,2.0
+370,Open Elective,CFOC358M,CMOS Digital VLSI Design,Online Course,1.0,0,0,0,0,2.0
+371,Open Elective,CFOC359M,Analog Circuits and Systems through SPICE Simulation,Online Course,1.0,0,0,0,0,3.0
+372,Open Elective,CFOC360M,Discrete Time Signal Processing,Online Course,1.0,0,0,0,0,2.0
+373,Open Elective,CFOC361M,Digital Electronic Circuits,Online Course,1.0,0,0,0,0,3.0
+374,Open Elective,CFOC362M,Fundamentals of MIMO Wireless Communication,Online Course,1.0,0,0,0,0,2.0
+375,Open Elective,CFOC363M,Spread Spectrum Communications and Jamming,Online Course,1.0,0,0,0,0,3.0
+376,Open Elective,CFOC364M,Basic Building Blocks of Microwave Engineering & Design Principles of RF and Microware filters and Amplifiers,Online Course,1.0,0,0,0,0,2.0
+377,Open Elective,CFOC365M,Evolution of Air Interface towards 5G,Online Course,1.0,0,0,0,0,2.0
+378,Open Elective,CFOC366M,Architectural Design of Digital Integrated Circuits,Online Course,1.0,0,0,0,0,3.0
+379,Open Elective,CFOC367M,Electrical Machines - II,Online Course,1.0,0,0,0,0,3.0
+380,Open Elective,CFOC368M,Medical Image Analysis,Online Course,1.0,0,0,0,0,1.0
+381,Open Elective,CFOC369M,Biomedical Signal Processing,Online Course,1.0,0,0,0,0,3.0
+382,Open Elective,CFOC370M,Microprocessors And Microcontrollers,Online Course,1.0,0,0,0,0,3.0
+383,Open Elective,CFOC371M,Recent Advances in Transmission Insulator,Online Course,1.0,0,0,0,0,1.0
+384,Open Elective,CFOC372M,VLSI Signal Processing,Online Course,1.0,0,0,0,0,2.0
+385,Open Elective,CFOC373M,Analog Electronic Circuits,Online Course,1.0,0,0,0,0,3.0
+386,Open Elective,CFOC374M,Network Analysis,Online Course,1.0,0,0,0,0,3.0
+387,Open Elective,CFOC375M,Optical Engineering,Online Course,1.0,0,0,0,0,3.0
+388,Open Elective,CFOC376M,Mathematical Methods and Techniques in Signal Processing,Online Course,1.0,0,0,0,0,3.0
+389,Open Elective,CFOC377M,A brief introduction of Micro – Sensors,Online Course,1.0,0,0,0,0,1.0
+390,Open Elective,CFOC378M,Statistical Signal Processing,Online Course,1.0,0,0,0,0,3.0
+391,Open Elective,CFOC379M,Nonlinear System Analysis,Online Course,1.0,0,0,0,0,3.0
+392,Open Elective,CFOC380M,Ethics in Engineering Practice,Online Course,1.0,0,0,0,0,2.0
+393,Open Elective,CFOC381M,Introduction to Research,Online Course,1.0,0,0,0,0,2.0
+394,Open Elective,CFOC382M,Matlab Programming for Numerical Computation,Online Course,1.0,0,0,0,0,2.0
+395,Open Elective,CFOC383M,Roadmap for Patent Creation,Online Course,1.0,0,0,0,0,2.0
+396,Open Elective,CFOC384M,Entrepreneurship Essentials,Online Course,1.0,0,0,0,0,3.0
+397,Open Elective,CFOC385M,Fuzzy Logic and Neural Networks,Online Course,1.0,0,0,0,0,2.0
+398,Open Elective,CFOC386M,Microeconomics : Theory & Applications,Online Course,1.0,0,0,0,0,3.0
+399,Open Elective,CFOC387M,Introduction to Environmental Economics,Online Course,1.0,0,0,0,0,3.0
+400,Open Elective,CFOC388M,"Energy Resources, Economics and Environment",Online Course,1.0,0,0,0,0,3.0
+401,Open Elective,CFOC389M,Literary Criticism (From Plato to Leavis),Online Course,1.0,0,0,0,0,3.0
+402,Open Elective,CFOC390M,Twentieth Century Fiction,Online Course,1.0,0,0,0,0,3.0
+403,Open Elective,CFOC391M,Effective Writing,Online Course,1.0,0,0,0,0,1.0
+404,Open Elective,CFOC392M,Strategic Trade and Protectionism - Theories and Empirics,Online Course,1.0,0,0,0,0,2.0
+405,Open Elective,CFOC393M,Introduction to Cultural Studies,Online Course,1.0,0,0,0,0,3.0
+406,Open Elective,CFOC394M,Introduction to Basic Spoken Sanskrit,Online Course,1.0,0,0,0,0,1.0
+407,Open Elective,CFOC395M,Speaking Effectively,Online Course,1.0,0,0,0,0,2.0
+408,Open Elective,CFOC396M,Soft Skill Development,Online Course,1.0,0,0,0,0,2.0
+409,Open Elective,CFOC397M,Intellectual Property,Online Course,1.0,0,0,0,0,3.0
+410,Open Elective,CFOC398M,English Language for Competitive Exams,Online Course,1.0,0,0,0,0,3.0
+411,Open Elective,CFOC399M,English Literature for Competitive Exams,Online Course,1.0,0,0,0,0,2.0
+412,Open Elective,CFOC400M,Language and Mind,Online Course,1.0,0,0,0,0,2.0
+413,Open Elective,CFOC401M,The Nineteenth - Century English Novel,Online Course,1.0,0,0,0,0,3.0
+414,Open Elective,CFOC402M,Introduction to World Literature,Online Course,1.0,0,0,0,0,3.0
+415,Open Elective,CFOC403M,Patent Drafting for Beginners,Online Course,1.0,0,0,0,0,1.0
+416,Open Elective,CFOC404M,Patent Law for Engineers and Scientists,Online Course,1.0,0,0,0,0,3.0
+417,Open Elective,CFOC405M,Economic Growth & Development,Online Course,1.0,0,0,0,0,2.0
+418,Open Elective,CFOC406M,Human Behaviour,Online Course,1.0,0,0,0,0,2.0
+419,Open Elective,CFOC407M,Introduction to Modern Indian Political Thought,Online Course,1.0,0,0,0,0,3.0
+420,Open Elective,CFOC408M,"English Literature of the Romantic Period, 1798 - 1832",Online Course,1.0,0,0,0,0,2.0
+421,Open Elective,CFOC409M,"Literature, Culture and Media",Online Course,1.0,0,0,0,0,3.0
+422,Open Elective,CFOC410M,Introduction to Brain & Behaviour,Online Course,1.0,0,0,0,0,2.0
+423,Open Elective,CFOC411M,Modern Indian Writing in Translation,Online Course,1.0,0,0,0,0,3.0
+424,Open Elective,CFOC412M,"Introduction to Political Ideologies : Contexts, Ideas, and Practices",Online Course,1.0,0,0,0,0,3.0
+425,Open Elective,CFOC413M,Indian Business History,Online Course,1.0,0,0,0,0,2.0
+426,Open Elective,CFOC414M,German - II,Online Course,1.0,0,0,0,0,3.0
+427,Open Elective,CFOC415M,German - I,Online Course,1.0,0,0,0,0,3.0
+428,Open Elective,CFOC416M,Feminism : Concepts and Theories,Online Course,1.0,0,0,0,0,3.0
+429,Open Elective,CFOC417M,An Introduction to Smooth Manifolds,Online Course,1.0,0,0,0,0,3.0
+430,Open Elective,CFOC418M,Measure Theory,Online Course,1.0,0,0,0,0,3.0
+431,Open Elective,CFOC419M,Basic Real Analysis,Online Course,1.0,0,0,0,0,3.0
+432,Open Elective,CFOC420M,Probabilistic Methods in PDE,Online Course,1.0,0,0,0,0,3.0
+433,Open Elective,CFOC421M,Graph Theory,Online Course,1.0,0,0,0,0,2.0
+434,Open Elective,CFOC422M,Transform Calculus and its applications in Differential Equations,Online Course,1.0,0,0,0,0,3.0
+435,Open Elective,CFOC423M,Integral and Vector Calculus,Online Course,1.0,0,0,0,0,3.0
+436,Open Elective,CFOC424M,Basic Linear Algebra,Online Course,1.0,0,0,0,0,2.0
+437,Open Elective,CFOC425M,Introduction to Rings And Fields,Online Course,1.0,0,0,0,0,2.0
+438,Open Elective,CFOC426M,Numerical Methods : Finite Difference Approach,Online Course,1.0,0,0,0,0,1.0
+439,Open Elective,CFOC427M,Numerical Linear Algebra,Online Course,1.0,0,0,0,0,3.0
+440,Open Elective,CFOC428M,Ordinary and Partial Differential Equations and Applications,Online Course,1.0,0,0,0,0,3.0
+441,Open Elective,CFOC429M,Advanced Engineering Mathematics,Online Course,1.0,0,0,0,0,3.0
+442,Open Elective,CFOC430M,Mathematical Methods and its Applications,Online Course,1.0,0,0,0,0,3.0
+443,Open Elective,CFOC431M,Multivariable Calculus,Online Course,1.0,0,0,0,0,2.0
+444,Open Elective,CFOC432M,Chaotic Dynamical System,Online Course,1.0,0,0,0,0,3.0
+445,Open Elective,CFOC433M,Engineering Mathematics II,Online Course,1.0,0,0,0,0,3.0
+446,Open Elective,CFOC434M,Advanced Probability Theory,Online Course,1.0,0,0,0,0,3.0
+447,Open Elective,CFOC435M,Statistical Inference,Online Course,1.0,0,0,0,0,2.0
+448,Open Elective,CFOC436M,Introduction to Algebraic Geometry and Commutative Algebra,Online Course,1.0,0,0,0,0,3.0
+449,Open Elective,CFOC437M,Linear Algebra,Online Course,1.0,0,0,0,0,3.0
+450,Open Elective,CFOC438M,Introduction to Probability and Statistics,Online Course,1.0,0,0,0,0,1.0
+451,Open Elective,CFOC439M,Descriptive Statistics with R Software,Online Course,1.0,0,0,0,0,2.0
+452,Open Elective,CFOC440M,Engineering Mechanics - Statics and Dynamics,Online Course,1.0,0,0,0,0,2.0
+453,Open Elective,CFOC441M,Experimental Stress Analysis,Online Course,1.0,0,0,0,0,3.0
+454,Open Elective,CFOC442M,Robotics and Control : Theory and Practice,Online Course,1.0,0,0,0,0,2.0
+455,Open Elective,CFOC443M,Computational Fluid Dynamics for Incompressible Flows,Online Course,1.0,0,0,0,0,3.0
+456,Open Elective,CFOC444M,Experimental Methods in Fluid Mechanics,Online Course,1.0,0,0,0,0,3.0
+457,Open Elective,CFOC445M,Foundations of Computational Materials Modelling,Online Course,1.0,0,0,0,0,3.0
+458,Open Elective,CFOC446M,Acoustic Materials and Metamaterials,Online Course,1.0,0,0,0,0,2.0
+459,Open Elective,CFOC447M,Power Plant Engineering,Online Course,1.0,0,0,0,0,2.0
+460,Open Elective,CFOC448M,Applied Ergonomics,Online Course,1.0,0,0,0,0,3.0
+461,Open Elective,CFOC449M,Product Design and Manufacturing,Online Course,1.0,0,0,0,0,3.0
+462,Open Elective,CFOC450M,Manufacturing Process Technology I & II,Online Course,1.0,0,0,0,0,3.0
+463,Open Elective,CFOC451M,Introduction To Mechanical Micro Machining,Online Course,1.0,0,0,0,0,3.0
+464,Open Elective,CFOC452M,"Non Traditional Abrasive Machining Processes Ultrasonic, Abrasive Jet and Abrasive Water Jet Machining",Online Course,1.0,0,0,0,0,1.0
+465,Open Elective,CFOC453M,Gear And Gear Unit Design : Theory And Practice,Online Course,1.0,0,0,0,0,2.0
+466,Open Elective,CFOC454M,Conduction and Convection Heat Transfer,Online Course,1.0,0,0,0,0,3.0
+467,Open Elective,CFOC455M,Laws of Thermodynamics,Online Course,1.0,0,0,0,0,1.0
+468,Open Elective,CFOC456M,Kinematics of Mechanisms and Machines,Online Course,1.0,0,0,0,0,2.0
+469,Open Elective,CFOC457M,Introduction To Fluid Mechanics,Online Course,1.0,0,0,0,0,3.0
+470,Open Elective,CFOC458M,Fundamental of Welding Science and Technology,Online Course,1.0,0,0,0,0,2.0
+471,Open Elective,CFOC459M,Introduction to Abrasive Machining and Finishing Processes,Online Course,1.0,0,0,0,0,2.0
+472,Open Elective,CFOC460M,Automatic Control,Online Course,1.0,0,0,0,0,2.0
+473,Open Elective,CFOC461M,Inspection and Quality Control in Manufacturing,Online Course,1.0,0,0,0,0,1.0
+474,Open Elective,CFOC462M,Diffusion in Multicomponent Solids,Online Course,1.0,0,0,0,0,3.0
+475,Open Elective,CFOC463M,Processing of Polymers and Polymer Composites,Online Course,1.0,0,0,0,0,2.0
+476,Open Elective,CFOC464M,Operations Management,Online Course,1.0,0,0,0,0,3.0
+477,Open Elective,CFOC465M,Convective Heat Transfer,Online Course,1.0,0,0,0,0,1.0
+478,Open Elective,CFOC466M,Two phase flow and heat transfer,Online Course,1.0,0,0,0,0,1.0
+479,Open Elective,CFOC467M,Steam and Gas Power Systems,Online Course,1.0,0,0,0,0,2.0
+480,Open Elective,CFOC468M,Principles of Casting Technology,Online Course,1.0,0,0,0,0,2.0
+481,Open Elective,CFOC469M,Financial Mathematics,Online Course,1.0,0,0,0,0,3.0
+482,Open Elective,CFOC470M,Modelling and Simulation of Dynamic Systems,Online Course,1.0,0,0,0,0,2.0
+483,Open Elective,CFOC471M,Fundamentals of combustion for propulsion,Online Course,1.0,0,0,0,0,2.0
+484,Open Elective,CFOC472M,Industrial Automation And Control,Online Course,1.0,0,0,0,0,3.0
+485,Open Elective,CFOC473M,Fundamentals of Nuclear Power Generation,Online Course,1.0,0,0,0,0,3.0
+486,Open Elective,CFOC474M,Mechanics of Machining,Online Course,1.0,0,0,0,0,2.0
+487,Open Elective,CFOC475M,IC Engines and Gas Turbines,Online Course,1.0,0,0,0,0,3.0
+488,Open Elective,CFOC476M,Principles of Industrial Engineering,Online Course,1.0,0,0,0,0,3.0
+489,Open Elective,CFOC477M,Computer Integrated Manufacturing,Online Course,1.0,0,0,0,0,3.0
+490,Open Elective,CFOC478M,Machining Science,Online Course,1.0,0,0,0,0,1.0
+491,Open Elective,CFOC479M,Introduction to Stochastic Processes,Online Course,1.0,0,0,0,0,3.0
+492,Open Elective,CFOC480M,Introduction to System Dynamics Modeling,Online Course,1.0,0,0,0,0,2.0
+493,Open Elective,CFOC481M,Management of New Products and Services,Online Course,1.0,0,0,0,0,1.0
+494,Open Elective,CFOC482M,Integrated Marketing Management,Online Course,1.0,0,0,0,0,2.0
+495,Open Elective,CFOC483M,Simulation of Business Systems: An Applied Approach,Online Course,1.0,0,0,0,0,2.0
+496,Open Elective,CFOC484M,Production and Operation Management,Online Course,1.0,0,0,0,0,3.0
+497,Open Elective,CFOC485M,"Services Marketing : Integrating People, Technology, Strategy",Online Course,1.0,0,0,0,0,2.0
+498,Open Elective,CFOC486M,Managerial Skills for Interpersonal Dynamics,Online Course,1.0,0,0,0,0,3.0
+499,Open Elective,CFOC487M,Financial Institutions and Markets,Online Course,1.0,0,0,0,0,3.0
+500,Open Elective,CFOC488M,Business Analytics For Management Decision,Online Course,1.0,0,0,0,0,3.0
+501,Open Elective,CFOC489M,Services Marketing : A Practical Approach,Online Course,1.0,0,0,0,0,1.0
+502,Open Elective,CFOC490M,Sales and Distribution Management,Online Course,1.0,0,0,0,0,2.0
+503,Open Elective,CFOC491M,Principles of Human Resource Management,Online Course,1.0,0,0,0,0,2.0
+504,Open Elective,CFOC492M,Managing change in organizations,Online Course,1.0,0,0,0,0,2.0
+505,Open Elective,CFOC493M,Management of Inventory Systems,Online Course,1.0,0,0,0,0,3.0
+506,Open Elective,CFOC494M,Quality Design And Control,Online Course,1.0,0,0,0,0,3.0
+507,Open Elective,CFOC495M,Foundation Course in Managerial Economics,Online Course,1.0,0,0,0,0,2.0
+508,Open Elective,CFOC496M,Engineering Econometrics,Online Course,1.0,0,0,0,0,3.0
+509,Open Elective,CFOC497M,Financial Statement Analysis and Reporting,Online Course,1.0,0,0,0,0,3.0
+510,Open Elective,CFOC498M,Business Statistics,Online Course,1.0,0,0,0,0,3.0
+511,Open Elective,CFOC499M,Global Marketing Management,Online Course,1.0,0,0,0,0,2.0
+512,Open Elective,CFOC500M,Marketing Research and Analysis - II,Online Course,1.0,0,0,0,0,3.0
+513,Open Elective,CFOC501M,Infrastructure Planning and Managements,Online Course,1.0,0,0,0,0,3.0
+514,Open Elective,CFOC502M,Modelling and Analytics for Supply Chain Management,Online Course,1.0,0,0,0,0,3.0
+515,Open Elective,CFOC503M,Marketing Analytics,Online Course,1.0,0,0,0,0,3.0
+516,Open Elective,CFOC504M,Financial Management For Managers,Online Course,1.0,0,0,0,0,3.0
+517,Open Elective,CFOC505M,Management of Commercial Banking,Online Course,1.0,0,0,0,0,3.0
+518,Open Elective,CFOC506M,Behavioral and Personal Finance,Online Course,1.0,0,0,0,0,2.0
+519,Open Elective,CFOC507M,Total Quality Management - 1,Online Course,1.0,0,0,0,0,2.0
+520,Open Elective,CFOC508M,Entrepreneurship,Online Course,1.0,0,0,0,0,3.0
+521,Open Elective,CFOC509M,Modeling of Tundish Steelmaking Process in Continuous Casting,Online Course,1.0,0,0,0,0,2.0
+522,Open Elective,CFOC510M,Fundamentals of Electronic Materials and Devices,Online Course,1.0,0,0,0,0,2.0
+523,Open Elective,CFOC511M,Introduction to Materials Science and Engineering,Online Course,1.0,0,0,0,0,3.0
+524,Open Elective,CFOC512M,Corrosion - Part I,Online Course,1.0,0,0,0,0,2.0
+525,Open Elective,CFOC513M,"Solar Photovoltaics: Principles, Technologies and Materials",Online Course,1.0,0,0,0,0,2.0
+526,Open Elective,CFOC514M,Welding Processes,Online Course,1.0,0,0,0,0,3.0
+527,Open Elective,CFOC515M,Theory and Practice of Non Destructive Testing,Online Course,1.0,0,0,0,0,2.0
+528,Open Elective,CFOC516M,Steel Quality: Role of Secondary Refining and Continuous Casting,Online Course,1.0,0,0,0,0,3.0
+529,Open Elective,CFOC517M,Materials Science and Engineering,Online Course,1.0,0,0,0,0,2.0
+530,Open Elective,CFOC518M,Surface Engineering of Nanomaterials,Online Course,1.0,0,0,0,0,2.0
+531,Open Elective,CFOC519M,"Dealing with Materials Data: Collection, Analysis and Interpretation",Online Course,1.0,0,0,0,0,3.0
+532,Open Elective,CFOC520M,Friction and Wear of Materials: Principle and Case Studies,Online Course,1.0,0,0,0,0,2.0
+533,Open Elective,CFOC521M,Material Characterization,Online Course,1.0,0,0,0,0,3.0
+534,Open Elective,CFOC522M,Offshore Structures Under Special Environmental Loads Including Fire Resistance,Online Course,1.0,0,0,0,0,3.0
+535,Open Elective,CFOC523M,Physics of Biological Systems,Online Course,1.0,0,0,0,0,3.0
+536,Open Elective,CFOC524M,Group Theory methods in Physics,Online Course,1.0,0,0,0,0,3.0
+537,Open Elective,CFOC525M,Experimental Physics - II,Online Course,1.0,0,0,0,0,3.0
+538,Open Elective,CFOC526M,Quantum Mechanics I,Online Course,1.0,0,0,0,0,3.0
+539,Open Elective,CFOC527M,A Brief Course on Superconductivity,Online Course,1.0,0,0,0,0,1.0
+540,Open Elective,CFOC528M,Fiber Optics,Online Course,1.0,0,0,0,0,2.0
+541,Open Elective,CFOC529M,Electromagnetism,Online Course,1.0,0,0,0,0,3.0
+542,Open Elective,CFOC530M,Experimental Physics III,Online Course,1.0,0,0,0,0,3.0
+543,Open Elective,CFOC531M,Electronic Theory of Solids,Online Course,1.0,0,0,0,0,3.0
+544,Open Elective,CFOC532M,Introduction to Atmospheric and Space Sciences,Online Course,1.0,0,0,0,0,3.0
+545,Open Elective,CFOC533M,Optical Sensors,Online Course,1.0,0,0,0,0,1.0
+546,Open Elective,CFOC534M,Evaluation of Textiles Materials,Online Course,1.0,0,0,0,0,3.0
+547,Open Elective,CFOC535M,Advanced Textile Printing Technology,Online Course,1.0,0,0,0,0,2.0
+548,Open Elective,CFOC536M,Textured Yarn Technology,Online Course,1.0,0,0,0,0,3.0
+549,Open Elective,CFOC537M,Theory of Yarn Structure,Online Course,1.0,0,0,0,0,3.0
+550,Open Elective,CFOC538M,Testing of Functional and Technical Textiles,Online Course,1.0,0,0,0,0,2.0
+551,Open Elective,CFOC539M,"Applied Optimization for Wireless, Machine Learning, Big Data",Online Course,1.0,0,0,0,0,3.0
+552,Open Elective,CFOC540M,Deep Learning for Computer Vision,Online Course,1.0,0,0,0,0,3.0
+553,Open Elective,CFOC541M,Deep Learning for Visual Computing,Online Course,1.0,0,0,0,0,3.0
+554,Open Elective,CFOC542M,Principles of Compiler Design,Online Course,1.0,0,0,0,0,3.0
+555,Open Elective,CFOC543M,International Business,Online Course,1.0,0,0,0,0,3.0
+556,Open Elective,CFOC544M,Learning Analytics Tools,Online Course,1.0,0,0,0,0,3.0
+557,Open Elective,CFOC545M,Advanced IoT Applications,Online Course,1.0,0,0,0,0,2.0
+558,Open Elective,CFOC546M,Algorithms for Big Data,Online Course,1.0,0,0,0,0,2.0
+559,Open Elective,CFOC547M,Decision Making Using Financial Accounting,Online Course,1.0,0,0,0,0,2.0
+560,Open Elective,CFOC548M,Introduction on Intellectual Property to Engineers and Technologists,Online Course,1.0,0,0,0,0,2.0
+561,Open Elective,CFOC549M,Introduction to Quantum Computing: Quantum Algorithms and Qiskit,Online Course,1.0,0,0,0,0,1.0
+562,Open Elective,CFOC550M,Numerical Analysis,Online Course,1.0,0,0,0,0,4.0
+563,Open Elective,CFOC551M,Quantum Technology and Quantum Phenomena in Macroscopic Systems,Online Course,1.0,0,0,0,0,3.0
+564,Open Elective,CFOC552M,Electrochemical Impedance Spectroscopy,Online Course,1.0,0,0,0,0,3.0
+565,Open Elective,CFOC553M,Carbon Materials and Manufacturing,Online Course,1.0,0,0,0,0,3.0
+566,Open Elective,CFOC554M,Electronic Packaging and Manufacturing,Online Course,1.0,0,0,0,0,2.0
+567,Open Elective,CFOC555M,Finite Element Method,Online Course,1.0,0,0,0,0,3.0
+568,Open Elective,CFOC556M,Physics of Materials,Online Course,1.0,0,0,0,0,3.0
+569,Open Elective,CFOC557M,X-ray Crystallography and Diffraction,Online Course,1.0,0,0,0,0,3.0
+570,Open Elective,CFOC558M,"Solar Photovoltaics Fundamentals, Technology and Applications",Online Course,1.0,0,0,0,0,2.0
+571,Open Elective,CFOC559M,Design of Photovoltaic Systems,Online Course,1.0,0,0,0,0,3.0
+572,Open Elective,CFOC560M,Fundamentals of Micro and Nanofabrication,Online Course,1.0,0,0,0,0,3.0
+573,Open Elective,CFOC561M,Biomedical Nanotechnology,Online Course,1.0,0,0,0,0,1.0
+574,Open Elective,CFOC562M,Design and Analysis of VLSI Subsystems,Online Course,1.0,0,0,0,0,3.0
+575,Open Elective,CFOC563M,Physics of Nanoscale Devices,Online Course,1.0,0,0,0,0,3.0
+576,Open Elective,CFOC564M,Photonic Integrated Circuit,Online Course,1.0,0,0,0,0,3.0
+577,Open Elective,CFOC565M,Technologies for Clean and Renewable Energy Production,Online Course,1.0,0,0,0,0,2.0
+578,Open Elective,CFOC566M,Elements of Solar Energy Conversion,Online Course,1.0,0,0,0,0,3.0
+579,Open Elective,CFOC567M,Physics of Renewable Energy Systems,Online Course,1.0,0,0,0,0,3.0
+580,Open Elective,CFOC568M,Structural Analysis of Nanomaterials,Online Course,1.0,0,0,0,0,1.0
+581,Open Elective,CFOC569M,Computational Approach to Materials Science and Engineering,Online Course,1.0,0,0,0,0,2.0
+582,Open Elective,CFOC570M,Public Speaking,Online Course,1.0,0,0,0,0,3.0
+583,Open Elective,CFOC571M,Introduction To CFD,Online Course,1.0,0,0,0,0,3.0
+584,Open Elective,CFOC572M,Dairy And Food Process And Products Technology,Online Course,1.0,0,0,0,0,3.0
+585,Open Elective,CFOC573M,Fundamentals Of Food Process Engineering,Online Course,1.0,0,0,0,0,3.0
+586,Open Elective,CFOC574M,Micro Irrigation Engineering,Online Course,1.0,0,0,0,0,3.0
+587,Open Elective,CFOC575M,Wildlife Ecology,Online Course,1.0,0,0,0,0,3.0
+588,Open Elective,CFOC576M,Integrated Waste Management For A Smart City,Online Course,1.0,0,0,0,0,3.0
+589,Open Elective,CFOC577M,Introduction To Multimodal Urban Transportation Systems (MUTS),Online Course,1.0,0,0,0,0,3.0
+590,Open Elective,CFOC578M,Wastewater Treatment And Recycling,Online Course,1.0,0,0,0,0,3.0
+591,Open Elective,CFOC579M,Structural Geology,Online Course,1.0,0,0,0,0,3.0
+592,Open Elective,CFOC580M,Real-Time Systems,Online Course,1.0,0,0,0,0,3.0
+593,Open Elective,CFOC581M,Algorithmic Game Theory,Online Course,1.0,0,0,0,0,3.0
+594,Open Elective,CFOC582M,Computational Number Theory and Algebra,Online Course,1.0,0,0,0,0,3.0
+595,Open Elective,CFOC583M,Power System Protection,Online Course,1.0,0,0,0,0,3.0
+596,Open Elective,CFOC585M,Great Experiments In Psychology,Online Course,1.0,0,0,0,0,1.0
+597,Open Elective,CFOC586M,Spoken Sanskrit: Basic and Intermediate Levels,Online Course,1.0,0,0,0,0,3.0
+598,Open Elective,CFOC587M,Economics of Banking and Finance Markets,Online Course,1.0,0,0,0,0,3.0
+599,Open Elective,CFOC588M,Concepts Of Thermodynamics,Online Course,1.0,0,0,0,0,3.0
+600,Open Elective,CFOC589M,Engineering Drawing And Computer Graphics,Online Course,1.0,0,0,0,0,3.0
+601,Open Elective,CFOC590M,Management Information System,Online Course,1.0,0,0,0,0,3.0
+602,Open Elective,CFOC591M,Principles Of Management,Online Course,1.0,0,0,0,0,3.0
+603,Open Elective,CFOC592M,Stress Management,Online Course,1.0,0,0,0,0,1.0
+604,Open Elective,CFOC593M,Corporate Finance,Online Course,2.0,0,0,0,0,2.0
+605,Open Elective,CFOC594M,Customer Relationship Management,Online Course,1.0,0,0,0,0,2.0
+606,Open Elective,CFOC595M,Urbanization and Environment,Online Course,1.0,0,0,0,0,2.0
+607,Open Elective,CFOC596M,Digital Speech Processing,Online Course,1.0,0,0,0,0,2.0
+608,Open Elective,CFOC597M,Globalization And Culture,Online Course,1.0,0,0,0,0,2.0
+609,Open Elective,CFOC598M,Elements of Visual Representation,Online Course,1.0,0,0,0,0,2.0
+610,Open Elective,CFOC599M,Leadership and Team Effectiveness,Online Course,1.0,0,0,0,0,3.0
+611,Open Elective,CFOC600M,Data Analysis for Biologists,Online Course,1.0,0,0,0,0,2.0
+612,Open Elective,CFOC601M,Advance Course in Social Psychology,Online Course,1.0,0,0,0,0,3.0
+613,Open Elective,CFOC602M,Product and Brand Management,Online Course,1.0,0,0,0,0,3.0
+614,Open Elective,CFOC603M,Quantitative Investment Management,Online Course,1.0,0,0,0,0,2.0
+615,Open Elective,CFOC604M,Entrepreneurship and IP Strategy,Online Course,1.0,0,0,0,0,2.0
+616,Open Elective,CFOC605M,"Sensor Technologies: Physics, Fabrication, and Circuits",Online Course,1.0,0,0,0,0,2.0
+617,Open Elective,CFOC606M,Ecology and Environment,Online Course,1.0,0,0,0,0,2.0
+618,Open Elective,CFOC607M,Analog VLSI Design,Online Course,1.0,0,0,0,0,1.0
+619,Open Elective,CFOC608M,The Science of Happiness and Wellbeing,Online Course,1.0,0,0,0,0,2.0
+620,Open Elective,CFOC609M,Introduction to Basic Spoken Sanskrit and Intermediate Level of Spoken Sanskrit,Online Course,1.0,0,0,0,0,3.0
+621,Open Elective,CFOC610M,Advanced Algorithmic Trading and Portfolio Management,Online Course,1.0,0,0,0,0,2.0
+622,Open Elective,CFOC611M,Advanced Quantum Mechanics with Applications,Online Course,1.0,0,0,0,0,2.0
+623,Open Elective,CFOC612M,Business Fundamentals for Entrepreneurs,Online Course,1.0,0,0,0,0,1.0
+624,Open Elective,CFOC613M,C-Based VLSI Design,Online Course,1.0,0,0,0,0,3.0
+625,Open Elective,CFOC614M,The Popular Gothic Novel,Online Course,1.0,0,0,0,0,3.0
+626,Open Elective,CFOC615M,Introduction To Biomimicry,Online Course,1.0,0,0,0,0,2.0
+627,Open Elective,CFOC616M,Applied Linguistics,Online Course,1.0,0,0,0,0,3.0
+628,Open Elective,CFOC617M,Gender and Literature,Online Course,1.0,0,0,0,0,2.0
+629,Open Elective,CFOC618M,Developing Soft Skills and Personality,Online Course,1.0,0,0,0,0,2.0
+630,Open Elective,CFOC619M,Corporate Finance_2,Online Course,1.0,0,0,0,0,2.0
+631,Open Elective,CFOC620M,Architectural Acoustics,Online Course,1.0,0,0,0,0,2.0
+632,Open Elective,CFOC622M,"Indian Art: Materials, Techniques and Artistic Practices",Online Course,1.0,0,0,0,0,3.0
+633,Open Elective,CFOC623M,Space Flight Mechanics,Online Course,1.0,0,0,0,0,3.0
+634,Open Elective,CFOC624M,Industrial Safety Engineering,Online Course,1.0,0,0,0,0,3.0
+635,Open Elective,CFOC625M,Advanced Thermodynamics and Combustion,Online Course,1.0,0,0,0,0,3.0
+636,Open Elective,CFOC626M,Postmodernism in Literature,Online Course,1.0,0,0,0,0,2.0
+637,Open Elective,CFOC627M,Natural Language Processing,Online Course,1.0,0,0,0,0,3.0
+638,Open Elective,CFOC628M,Appreciating Carnatic Music,Online Course,1.0,0,0,0,0,2.0
+639,Open Elective,CFOC629M,Body language:Key to Professional Success,Online Course,1.0,0,0,0,0,1.0
+640,Open Elective,CFOC630M,Business To Business Marketing,Online Course,1.0,0,0,0,0,3.0
+641,Open Elective,CFOC631M,Conservation Geography,Online Course,1.0,0,0,0,0,3.0
+642,Open Elective,CFOC632M,Enclosure design of Electronics equipment,Online Course,1.0,0,0,0,0,3.0
+643,Open Elective,CFOC633M,Environment And Development,Online Course,1.0,0,0,0,0,3.0
+644,Open Elective,CFOC634M,Introduction to Aerospace Engineering,Online Course,1.0,0,0,0,0,3.0
+645,Open Elective,CFOC635M,Operations And Supply Chain Management,Online Course,1.0,0,0,0,0,3.0
+646,Open Elective,CFOC636M,Programming in modern c++,Online Course,1.0,0,0,0,0,3.0
+647,Open Elective,CFOC637M,Psychology Of Learning,Online Course,1.0,0,0,0,0,3.0
+648,Open Elective,CFOC638M,"Urban Utilities Planning : Water Supply, Sanitation And Drainage",Online Course,1.0,0,0,0,0,3.0
+649,Open Elective,CFOC639M,Research Methodology,Online Course,1.0,0,0,0,0,2.0
+650,Open Elective,CFOC640M,Communication Networks,Online Course,1.0,0,0,0,0,3.0
+651,Open Elective,CFOC641M,Aircraft Design,Online Course,1.0,0,0,0,0,3.0
+652,Open Elective,CFOC642M,Conservation Economics,Online Course,1.0,0,0,0,0,3.0
+653,Open Elective,CFOC643M,Cryogenic Hydrogen Technology,Online Course,1.0,0,0,0,0,2.0
+654,Open Elective,CFOC644M,Explosions and Safety,Online Course,1.0,0,0,0,0,3.0
+655,Open Elective,CFOC645M,Financial Accounting,Online Course,1.0,0,0,0,0,2.0
+656,Open Elective,CFOC646M,Philosophy and Critical Thinking,Online Course,1.0,0,0,0,0,3.0
+657,Open Elective,CFOC647M,Air pollution and Control,Online Course,1.0,0,0,0,0,3.0
+658,Open Elective,CFOC648M,Centre-State Relations in India,Online Course,1.0,0,0,0,0,2.0
+659,Open Elective,CFOC649M,"Energy Resources, Economics, and Sustainability",Online Course,1.0,0,0,0,0,2.0
+660,Open Elective,CFOC650M,Human Physiology,Online Course,1.0,0,0,0,0,3.0
+661,Open Elective,CFOC651M,"Psychology of Stress, Health and Well-being",Online Course,1.0,0,0,0,0,3.0
+662,Open Elective,CFOC652M,Signal Processing Techniques and its Applications,Online Course,1.0,0,0,0,0,3.0
+663,Open Elective,CFOC653M,Strength & Conditioning for the Indian Population,Online Course,1.0,0,0,0,0,3.0
+664,Open Elective,CFOC654M,The Evolution of the Earth and Life,Online Course,1.0,0,0,0,0,3.0
+665,Open Elective,CFOC655M,United Nations Sustainable Development Goals (UN SDGs),Online Course,1.0,0,0,0,0,3.0
+666,Open Elective,CFOC656M,Usability Engineering,Online Course,1.0,0,0,0,0,3.0
+667,Open Elective,CFOC658M,Design Practice - II,Online Course,1.0,0,0,0,0,2.0
+668,Open Elective,CFOC659M,Essentials of Data Science With R Software - 1: Probability and Statistical Inference,Online Course,1.0,0,0,0,0,3.0
+669,Open Elective,CFOC660M,Applied Linear Algebra in AI and ML,Online Course,1.0,0,0,0,0,3.0
+670,Open Elective,CFOC669M,Responsible & Safe AI Systems,Online Course,1.0,0,0,0,0,3.0
+671,Non-graded Core Requirement,BCHY102N,Environmental Sciences,Online Course,1.0,0,0,0,0,2.0
+672,Non-graded Core Requirement,BCSE101N,Introduction to Engineering,Project,1.0,0,0,0,0,1.0
+673,Non-graded Core Requirement,BEXC100N,Extra curricular activities,Basket,1.0,0,0,0,0,2.0
+674,Non-graded Core Requirement,BHUM101N,Ethics and Values,Online Course,1.0,0,0,0,0,2.0
+675,Non-graded Core Requirement,BSSC101N,Essence of Traditional Knowledge,Online Course,1.0,0,0,0,0,2.0
+676,Non-graded Core Requirement,BSSC102N,Indian Constitution,Online Course,1.0,0,0,0,0,2.0
+677,Bridge Course,BENG101N,Effective English Communication,Lab Only,1.0,0,0,4,0,2.0
+678,Specialization Elective,BCSE209L,Machine Learning,Theory Only,1.0,3,0,0,0,3.0
+679,Specialization Elective,BCSE209P,Machine Learning Lab,Lab Only,1.0,0,0,2,0,1.0
+680,Specialization Elective,BCSE332L,Deep Learning,Theory Only,1.0,3,0,0,0,3.0
+681,Specialization Elective,BCSE332P,Deep Learning Lab,Lab Only,1.0,0,0,2,0,1.0
+682,Specialization Elective,BCSE416L,Game Programming,Theory Only,1.1,3,0,0,0,3.0
+683,Specialization Elective,BCSE416P,Game Programming Lab,Lab Only,1.0,0,0,2,0,1.0
+684,Specialization Elective,BCSE417L,Machine vision,Theory Only,1.1,3,0,0,0,3.0
+685,Specialization Elective,BCSE417P,Machine Vision Lab,Lab Only,1.0,0,0,2,0,1.0
+686,Specialization Elective,BCSE418L,Explainable Artificial Intelligence,Theory Only,1.1,2,0,0,0,2.0
+687,Specialization Elective,BCSE419L,Speech and Language Processing,Theory Only,1.0,3,0,0,0,3.0
+688,Specialization Elective,BCSE419P,Speech and Language Processing lab,Lab Only,1.0,0,0,2,0,1.0
+689,Specialization Elective,BCSE427L,Cognitive Robotics,Theory Only,1.0,2,0,0,0,2.0
+690,Specialization Elective,BCSE427P,Cognitive Robotics Lab,Lab Only,1.0,0,0,2,0,1.0
+691,Specialization Elective,BCSE428L,Autonomous Drones,Theory Only,1.0,2,0,0,0,2.0
+692,Specialization Elective,BCSE428P,Autonomous Drones Lab,Lab Only,1.0,0,0,2,0,1.0
+693,Specialization Elective,BCSE432E,Reinforcement Learning,Embedded Theory and Lab,1.0,3,0,2,0,4.0
+694,Specialization Elective,BECM302E,Augmented and Virtual Reality,Embedded Theory and Lab,1.0,3,0,2,0,4.0

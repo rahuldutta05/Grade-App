@@ -89,7 +89,8 @@ branch_options = [
     "CSE with Specialization in Artificial Intelligence and Robotics(BRS)",
     "Mechatronics(BMH)",
     "Electronics and Communication(BEC)",
-    "Electronics and Computer Engineering(BLC)"
+    "Electronics and Computer Engineering(BLC)".
+    "Electrical and Computer Science(BEL)"
 ]
 
 branch = st.selectbox(
@@ -123,6 +124,9 @@ elif branch == "Electronics and Communication(BEC)":
 elif branch == "Electronics and Computer Engineering(BLC)":
     course_file_path = "data/courses_blc.csv"
     MAX_TOTAL_CREDITS = 153.0
+elif branch == "Electrical and Computer Science(BEL)":
+    course_file_path = "data/courses_bel.csv"
+    MAX_TOTAL_CREDITS = 151.0
 else:
     course_file_path = "data/courses_bce.csv"
     MAX_TOTAL_CREDITS = 151.0

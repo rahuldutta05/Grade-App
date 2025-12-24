@@ -89,7 +89,7 @@ branch_options = [
     "CSE with Specialization in Artificial Intelligence and Robotics(BRS)",
     "Mechatronics(BMH)",
     "Electronics and Communication(BEC)",
-    "Electronics and Computer Engineering(BLC)".
+    "Electronics and Computer Engineering(BLC)",
     "Electrical and Computer Science(BEL)"
 ]
 

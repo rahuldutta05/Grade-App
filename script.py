@@ -6,7 +6,7 @@ import joblib
 import math
 
 # ============ 1. Load Data ============
-df = pd.read_csv("data/grades.csv")
+df = pd.read_csv("data\grades.csv")
 df.columns = df.columns.str.strip()
 
 # ============ 2. Weighted Score ============
